@@ -1,27 +1,9 @@
 
-## Github Stats
+### Languages
+![xu8117's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=39123862&layout=compact&hide_border=true&langs_count=10)
 
-<a href="https://github.com/xu8117/xu8117">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xu8117&show_icons=true&line_height=27&count_private=true" alt="xu8117's GitHub Stats" />
-</a>
+### Stars
+[![xu8117's GitHub stats](https://github-readme-stats.vercel.app/api?username=39123862)](https://github.com/anuraghazra/github-readme-stats)
 
-
-### Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=xu8117&column=7)](https://github.com/xu8117)
-
-
-
-<!--
-**xu8117/xu8117** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=xu8117)](https://github.com/ryo-ma/github-profile-trophy)
