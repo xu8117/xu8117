@@ -9,6 +9,9 @@
 ### Trophy
 [![trophy](https://github-profile-trophy.vercel.app/?username=xu8117)](https://github.com/ryo-ma/github-profile-trophy)
 
+### Visitors
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Augenstern-creator&left_color=green&right_color=red)
+
 ### Stars
 [![xu8117's GitHub stats](https://github-readme-stats.vercel.app/api?username=xu8117)](https://github.com/anuraghazra/github-readme-stats)
 
