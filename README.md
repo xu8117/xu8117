@@ -8,7 +8,7 @@
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xu8117" alt="xu8117" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xu8117&count_private=true" alt="xu8117" /></a> </p>
 
 
 
@@ -130,9 +130,9 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xu8117&show_icons=true&locale=en&layout=compact" alt="xu8117" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xu8117&show_icons=true&locale=en&layout=compact&count_private=true" alt="xu8117" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xu8117&show_icons=true&locale=en" alt="xu8117" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xu8117&show_icons=true&count_private=true" alt="xu8117" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xu8117&" alt="xu8117" /></p>
 
