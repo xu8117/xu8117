@@ -136,3 +136,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xu8117&" alt="xu8117" /></p>
 
+#### Recent Activity
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xu8117&theme=vue)
+
