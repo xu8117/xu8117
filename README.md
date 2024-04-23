@@ -131,15 +131,15 @@
 
 #### Statistic
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xu8117&theme=graywhite&show_icons=true&locale=en&layout=compact&count_private=true)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xu8117&theme=graywhite&hide_border=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=xu8117&theme=swift&show_icons=true&locale=en&layout=compact&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xu8117&theme=swift&hide_border=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 #### Per Day Hour
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xu8117&theme=graywhite&utcOffset=8)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xu8117&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xu8117&theme=swift&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xu8117&theme=swift)
 
 #### Recent Activity
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xu8117&theme=graywhite)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xu8117&theme=swift)
 
 
