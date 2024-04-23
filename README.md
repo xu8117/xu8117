@@ -132,11 +132,13 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=xu8117&show_icons=true&locale=en&layout=compact&count_private=true" alt="xu8117" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xu8117&show_icons=true&count_private=true" alt="xu8117" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xu8117&" alt="xu8117" /></p>
 
 #### Recent Activity
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xu8117&theme=vue)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xu8117&theme=github)
+
+#### Per Day Hour
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xu8117&theme=github&utcOffset=8)
 
