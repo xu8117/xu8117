@@ -130,13 +130,11 @@
 
 
 #### Statistic
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=xu8117&theme=swift&show_icons=true&locale=en&layout=compact&count_private=true)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xu8117&theme=swift&hide_border=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=xu8117&theme=swift)
 
 #### Per Day Hour
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xu8117&theme=swift&utcOffset=8)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xu8117&theme=swift&hide_border=true&date_format=%5BY.%5Dn.j&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 #### Recent Activity
 
