@@ -136,10 +136,6 @@
 #### Per Day Hour
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=xu8117&theme=swift&utcOffset=8)
 
-#### Recent Activity
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xu8117&theme=swift)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xu8117/xu8117/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xu8117/xu8117/output/github-contribution-grid-snake.svg">
